@@ -1,0 +1,8 @@
+{
+    "name":"Plitter",
+    "description":"A first test for the microblog plugin I will be live-coding in the plentymarkets CodeCamp",
+    "namespace":"Plitter",
+    "author":"Christoph Harms-Ensink",
+    "type":"template",
+    "serviceProvider":null
+}
