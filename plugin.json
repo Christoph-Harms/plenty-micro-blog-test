@@ -4,5 +4,5 @@
     "namespace":"Plitter",
     "author":"Christoph Harms-Ensink",
     "type":"template",
-    "serviceProvider":null
+    "serviceProvider":"Plitter\\Providers\\PlitterServiceProvider"
 }
